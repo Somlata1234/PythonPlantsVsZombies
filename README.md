@@ -4,8 +4,6 @@
 * implement plants: sunflower, peashooter, wallnut, snowpeashooter, cherrybomb, threepeashooter, chomper, puffshroom, potatomine, spikeweed, scaredyshroom, squash, scaredyshroom, jalapeno, sunShroom, iceShroom, hypnoShroom.
 * implement zombies: zombie, flagzombie, coneheadzombie, bucketheadzombie, newspaperzombie.
 * use json file to store level data (e.g.position and time of zombies, background info)
-* support to select plant cards at the beginning of the level
-* support day level, night level, moving card select level and wallnut bowling level
 
 # Requirement
 * Python 3.7 
